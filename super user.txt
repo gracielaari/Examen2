@@ -1,0 +1,16 @@
+username: userexamen
+password: userexamen
+
+http://127.0.0.1:8000/pendientes/solo_ids/
+
+http://127.0.0.1:8000/pendientes/ids_titles/
+
+http://127.0.0.1:8000/pendientes/no_resueltos/
+
+http://127.0.0.1:8000/pendientes/resueltos/
+
+http://127.0.0.1:8000/pendientes/ids_user/
+
+http://127.0.0.1:8000/pendientes/resueltos_user/
+
+http://127.0.0.1:8000/pendientes/no_resueltos_user/
